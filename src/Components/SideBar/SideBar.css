@@ -1,0 +1,31 @@
+
+.Logo{
+    text-align: center;
+    font-weight: bold;
+    color: #14b8a6;
+    font-weight: bold;
+    font-style: italic;
+    
+}
+.SideBarTop{
+    padding-top: 10px;
+    font-weight: bold;
+    color: white;
+    font-size: 30px;
+    padding-left: 20px;
+}
+.SideBarCenter{
+    margin-top: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: white;
+    padding-left: 20px;
+}
+.SideBarBottom{
+    margin-top: 10px;
+    font-weight: bold;
+    color: white;
+    padding-left: 20px;
+
+
+}
